@@ -1,10 +1,21 @@
 # Leetcode Practice
 
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
-## Table of Contents
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#Background#Background">Background</a>
+    </li>
+    <li>
+      <a href="#Study Plan">Study Plan</a>
+      <ul>
+        <li><a href="#Algorithm 1">Algorithm 1</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
-- [Background](#Background)
-- [Algorithm1](#Algorithm 1)
 
 
 ## Background
