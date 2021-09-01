@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [Background](#Background)
-- [ Algorithm 1](#Study Algorithm 1)
+- [ Algorithm 1](#Algorithm 1)
 
 
 ## Background
