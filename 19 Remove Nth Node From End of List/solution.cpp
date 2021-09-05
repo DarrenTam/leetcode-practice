@@ -5,9 +5,9 @@ class Solution {
 public:
     ListNode *removeNthFromEnd(ListNode *head, int n) {
         ListNode *current = head;
-        int len = 0;
+        int len = 1;
 
-        while (current) {
+        while (current->next) {
             current = current->next;
             len++;
         }
@@ -18,7 +18,7 @@ public:
 
         current = head;
 
-        for (int i = 1; i < len - n; i++) {
+        for (int i = 0; i < len - n - 1; i++) {
             current = current->next;
         }
 
@@ -27,4 +27,5 @@ public:
         return head;
     }
 };
+
 
