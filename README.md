@@ -35,6 +35,8 @@ Will back and review the answer some times.
 - 167 Two Sum II - Input array is sorted
 - 344 Reverse String
 - 557 Reverse Words in a String III
+- 876 Middle of the Linked List
+- 19 Remove Nth Node From End of List (review)
 
 
 ## Maintainers
