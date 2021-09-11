@@ -38,6 +38,7 @@ Will back and review the answer some times.
 - 876 Middle of the Linked List
 - 19 Remove Nth Node From End of List (review)
 - 3 Longest Substring Without Repeating Characters (review)
+- 567 Permutation in String (review)
 
 
 ## Maintainers
