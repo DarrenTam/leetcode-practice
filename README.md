@@ -40,7 +40,7 @@ Will back and review the answer some times.
 - 3 Longest Substring Without Repeating Characters (review)
 - 567 Permutation in String (review)
 - 733 Flood Fill (review) try BFS solution
-- 695 Max Area of Island (review) low performance
+- 695 Max Area of Island 
 
 
 ## Maintainers
